@@ -1,2 +1,38 @@
-# Linux_Projeto_1-iac
-Projeto Infraestrutura como Códigos: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Projeto Infraestrutura como Códigos: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+</h1>
+
+## Instituição: [DIO](https://web.dio.me/home)
+
+## Bootcamp: Linux do zero
+
+## Professor Denilson Bonatti - Especialista, DIO - @DenilsonBonatti
+
+## Características do Projeto:
+
+Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais.
+
+Com a IaC, são criados arquivos de configuração que incluem as especificações de sua infraestrutura, facilitando a edição e a distribuição de configurações. Ela também assegura o provisionamento do mesmo ambiente todas as vezes.
+
+### Controle de versão
+
+O controle de versão é uma parte importante da IaC. Os arquivos de configuração devem pertencer à fonte como qualquer outro código-fonte de software. Ao implementar a infraestrutura como código, também é possível separá-la em módulos, que podem ser combinados de diferentes maneiras por meio da automação.
+
+### Principal beneficio
+
+Ao automatizar o provisionamento da infraestrutura com a  IaC, os desenvolvedores não precisam provisionar e gerenciar manualmente serviços, sistemas operacionais, armazenamento e outros componentes de infraestrutura sempre que criam ou implantam uma aplicação.
+
+### Definições
+
+- Todo provisionamento deve ser feito em um arquivo do tipo bash Script;
+- O dono de todos os diretórios criados será o usuário root;
+- Todos os usuário terão permissão total dentro do diretório publico;
+- Os usuários de cada grupos terão permissão de leitura, escrita e execução em diretórios de departamento que eles não pertencem;
+
+## IDE utilizada:
+<img width="50" height="50" src="[(https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg)](https://devicon.dev/)" />
+
+## Linguagem:
+<img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.sv](https://devicon.dev/)g"/>

@@ -25,6 +25,7 @@ O controle de versão é uma parte importante da IaC. Os arquivos de configuraç
 Ao automatizar o provisionamento da infraestrutura com a  IaC, os desenvolvedores não precisam provisionar e gerenciar manualmente serviços, sistemas operacionais, armazenamento e outros componentes de infraestrutura sempre que criam ou implantam uma aplicação.
 
 ### Definições
+![Image](https://github.com/user-attachments/assets/ae5f9e20-3df5-4c1a-948b-089faf91163c)>
 
 - Todo provisionamento deve ser feito em um arquivo do tipo bash Script;
 - O dono de todos os diretórios criados será o usuário root;

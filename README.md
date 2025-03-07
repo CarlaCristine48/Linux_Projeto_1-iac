@@ -35,4 +35,4 @@ Ao automatizar o provisionamento da infraestrutura com a  IaC, os desenvolvedore
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 
 ## Linguagem:
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain-wordmark.svg"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>

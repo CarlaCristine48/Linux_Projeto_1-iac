@@ -8,7 +8,7 @@
 
 ## Bootcamp: Linux do zero
 
-## Professor Denilson Bonatti - Especialista, DIO - @DenilsonBonatti
+## Professor Denilson Bonatti - Especialista, DIO - @denilsonbonatti
 
 ## Características do Projeto:
 

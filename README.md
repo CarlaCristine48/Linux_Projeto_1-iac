@@ -31,7 +31,7 @@ Ao automatizar o provisionamento da infraestrutura com a  IaC, os desenvolvedore
 - Todos os usuário terão permissão total dentro do diretório publico;
 - Os usuários de cada grupos terão permissão de leitura, escrita e execução em diretórios de departamento que eles não pertencem;
 
-## IDE utilizada:
+## Open source utilizada:
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 
 ## Linguagem:

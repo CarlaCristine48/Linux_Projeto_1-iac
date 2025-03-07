@@ -32,7 +32,7 @@ Ao automatizar o provisionamento da infraestrutura com a  IaC, os desenvolvedore
 - Os usuários de cada grupos terão permissão de leitura, escrita e execução em diretórios de departamento que eles não pertencem;
 
 ## IDE utilizada:
-<img width="50" height="50" src="[(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg)">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
 
 ## Linguagem:
-<img width="50" height="50" src="[(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain-wordmark.svg)](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg)"/>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain-wordmark.svg"/>
